@@ -1,0 +1,25 @@
+body{
+  background-color: #1E1E1E;
+  color: white;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+table{
+  width: 70%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+td{
+  height: 50px;
+  width: min-content;
+  border-bottom: 2px solid gray;
+  text-align: right;
+}
+
